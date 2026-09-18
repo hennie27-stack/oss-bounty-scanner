@@ -1,0 +1,16 @@
+# never publish credentials
+github_token.txt
+github_token_write.txt
+*_token.txt
+.env
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# tool output
+bounty_scan.txt
+bounties.json
+scan.log
